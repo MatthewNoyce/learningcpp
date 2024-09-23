@@ -4,4 +4,5 @@
 //its also cool to do recursion
 int main(){
     fib(20);
+    fib(20, 2, 3);
 }

@@ -3,7 +3,7 @@
 //Calculates the first N fibbonaci numbers using iteration
 void fib(int iter, int start1=0, int start2=1){
     if (iter == 0){
-        std::cout << start1;
+        std::cout << start1 << std::endl;
     }
     else{
         std::cout << start1 << ", ";
