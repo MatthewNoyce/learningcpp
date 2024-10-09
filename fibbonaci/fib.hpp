@@ -1,1 +1,1 @@
-int fib(int iter, int start1=0, int start2=1);
+int fib(int iter, unsigned long long int start1=0, unsigned long long int start2=1);

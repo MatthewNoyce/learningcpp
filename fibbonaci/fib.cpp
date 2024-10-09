@@ -1,7 +1,7 @@
 #include <iostream>
 
 //Calculates the first N fibbonaci numbers using iteration
-void fib(int iter, int start1=0, int start2=1){
+void fib(int iter, unsigned long long int start1=0, unsigned long long int start2=1){
     if (iter == 0){
         std::cout << start1 << std::endl;
     }
